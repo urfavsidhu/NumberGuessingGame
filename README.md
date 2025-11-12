@@ -26,7 +26,7 @@
   </a>
 </p>
 
-*(Upload your code to Replit and replace the link above with your project URL)*
+
 
 ---
 
