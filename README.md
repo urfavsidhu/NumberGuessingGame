@@ -52,15 +52,3 @@ gcc number_guessing_game.c -o game
 # Step 2: Run
 ./game
 
----
-
-### ✅ Next Steps for You
-1. Upload your C file (example: `number_guessing_game.c`) on GitHub.  
-2. Copy this README content into your repo.  
-3. Create a **Replit** project → upload the same C file → copy its link →  
-   Replace `https://replit.com/~` with your real Replit link in the “Play Online” section.  
-
----
-
-Chahe to main **tumhare Replit project ke liye custom link-ready version** bhi bana du (matlab tum link doge, aur main updated README bana dunga)?  
-Bas mujhe apna **Replit link** bhej do 🔗
